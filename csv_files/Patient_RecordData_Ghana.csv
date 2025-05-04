@@ -1,0 +1,10 @@
+﻿Record_Id,Patient_Id,Appointment_Id,Service_Department_Id,Visit_Type,Visit_Date,Diagnosis,Treatment,Notes
+4,10,2,23,Appointment,2023-01-20,Hypertension,Prescribed ACE inhibitors,Stable condition
+5,3,3,1,Appointment,2023-12-25,Routine Checkup,No treatment needed,General checkup - Cancelled
+6,4,15,8,Appointment,2024-04-11,Vaccination,Scheduled for HPV vaccine,Awaiting patient arrival
+7,1,31,21,Appointment,2025-05-02,Headache,Advised MRI & observation,New complaint
+8,1,NULL,23,Emergency,2023-02-19,Car Accident,Treated for minor injuries,Emergency visit
+9,2,NULL,1,Emergency,2024-12-07,Food Poisoning,IV fluids + antiemetics,Discharged in stable condition
+10,4,NULL,8,Emergency,2023-10-20,Seizure Episode,Stabilized and monitored,Emergency care provided
+11,6,NULL,18,Walk-In,2023-09-21,Back Pain,Physiotherapy,Walk-in: no prior appointment
+12,6,NULL,1,Walk-In,2024-05-22,Allergy,Antihistamines prescribed,Walk-in seasonal allergy case

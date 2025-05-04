@@ -1,0 +1,11 @@
+First_Name,Last_Name,Other_Names,DOB,Gender,Phone_Number,Email,Date_Created,Id_Name,Id_Number,Emergency_Contact_Name,Emergency_Contact,Address_Id
+Afia,Ofori,,1987-04-25,Female,0274229112,afia.ofori@gmail.com,2023-03-13,National ID,GH545310109,Kwame Nkrumah,0263933977,9
+Kwame,Appiah,Kofi,1972-05-17,Female,0207385158,kwame.appiah@gmail.com,2010-10-13,Voter ID,GH215390638,Abena Adjei,0275071364,8
+Kofi,Boateng,,1980-12-15,Female,0271818201,kofi.boateng@gmail.com,2012-02-01,Voter ID,GH808889358,Abena Owusu,0569977583,1
+Abena,Nkrumah,Afia,1988-04-20,Male,0569457667,abena.nkrumah@gmail.com,2019-05-23,Driver's License,GH114965729,Afia Ofori,0552050851,5
+Kofi,Owusu,,1987-07-02,Male,0563764374,kofi.owusu@gmail.com,2013-01-09,Driver's License,GH278164346,Yaw Asante,0269385901,8
+Akosua,Baidoo,Ama,1993-10-18,Female,0559736006,akosua.baidoo@gmail.com,2011-11-13,Voter ID,GH956597421,Abena Addo,0208258816,7
+Yaw,Appiah,Abena,1973-04-07,Male,0205101678,yaw.appiah@gmail.com,2013-02-13,National ID,GH111764059,Kwame Appiah,0201701987,4
+Kwame,Baidoo,Kofi,1972-05-22,Female,0559648574,kwame.baidoo@gmail.com,2010-12-12,National ID,GH600251451,Akosua Ofori,0559565663,7
+Kwame,Nkrumah,Kwame,1969-08-28,Male,0263335768,kwame.nkrumah@gmail.com,2017-12-24,National ID,GH235268706,Ama Boateng,0271292302,8
+Yaw,Appiah,,1988-04-13,Male,0249531550,yaw.appiah@gmail.com,2023-02-19,Driver's License,GH448820318,Ama Asante,0504016487,7

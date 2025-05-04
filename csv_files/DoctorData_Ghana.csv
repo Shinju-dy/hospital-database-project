@@ -1,0 +1,11 @@
+First_Name,Last_Name,Other_Names,Speciality,DOB,Gender,Phone_Number,Email,Date_Joined,Id_Name,Id_Number,Emergency_Contact_name,Emergency_Contact,Department_Id,Address_Id
+Abena,Mensah,,Orthopedics,26/09/1975,Female,0509156016,abena.mensah@ghhospital.org,21/10/2013,National ID,GH665942416,Ama Darkowaa,0271210522,5,7
+Afia,Nkrumah,Yaw,Orthopedics,16/02/1988,Female,0271273607,afia.nkrumah@ghhospital.org,11/06/2012,National ID,GH695071655,Kwadwo Asiedu,0248663279,2,10
+Ama,Appiah,Afia,Pediatrics,18/07/1972,Male,0567351688,ama.appiah@ghhospital.org,16/05/2020,National ID,GH920540143,Sheila Efua Mensima,0563979461,4,1
+Foster,Owusu,,Pharmacy,09/01/1971,Female,0249561753,Foster.owusu@ghhospital.org,14/05/2020,National ID,GH781040540,Kwadwo Asiedu,0202822355,3,2
+Ama,Ofori,Yaw,Radiology,18/02/1977,Female,0203749090,ama.ofori@ghhospital.org,09/06/2010,National ID,GH607354551,Seth Nana Kwaku,0277946968,4,2
+Yaw,Appiah,Ama,Pediatrics,02/11/1991,Female,0279675556,yaw.appiah@ghhospital.org,05/05/2018,National ID,GH804301313,Yaw Agyemang,0247182205,1,3
+Serwaa,Ofori,,Cardiology,05/12/1966,Female,0549750841,serwaa.ofori@ghhospital.org,12/01/2020,National ID,GH582887334,Joy Esi Aba,0268197572,3,9
+Dennis,Nkrumah,Afia,Radiology,18/02/1981,Female,0267680187,Dennis.nkrumah@ghhospital.org,11/10/2013,National ID,GH199704321,Yaw Agyemang,0554410339,1,9
+Olivia,Asante,Kojo,Pediatrics,19/05/1971,Male,0569259204,Olivia.asante@ghhospital.org,11/10/2011,National ID,GH189916120,Afia Serwaa,0549962110,4,1
+Mavis,Adjei,,Pharmacy,08/07/1975,Male,0241879719,Mavis.adjei@ghhospital.org,01/11/2019,National ID,GH952324235,Ama Yeboah,0566761204,3,8
